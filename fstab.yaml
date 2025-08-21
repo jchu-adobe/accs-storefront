@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://github.com/{org}/{site}/
+    type: markup
+
+folders:
+  /products/: /products/default

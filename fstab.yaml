@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/{org}/{site}/
+    url: https://github.com/jchu-adobe/accs-storefront/
     type: markup
 
 folders:
